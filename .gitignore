@@ -1,0 +1,62 @@
+###############################
+# Minecraft worlds & local data
+###############################
+world/
+world_nether/
+world_the_end/
+backups/
+logs/
+crash-reports/
+debug.log
+usercache.json
+usernamecache.json
+
+###############################
+# Prism / Launcher / local files
+###############################
+options.txt
+servers.dat
+servers.dat_old
+launcher_profiles.json
+launcher_log.txt
+launcher_accounts.json
+
+###############################
+# packwiz – IGNORAR jars
+###############################
+mods/*.jar
+mods/*-dev.jar
+mods/*-sources.jar
+mods/*-fabric.jar
+mods/*-forge.jar
+
+
+###############################
+# Configurations
+###############################
+# config/
+
+###############################
+# Datapacks
+###############################
+# datapacks/
+
+###############################
+# OS cruft
+###############################
+.DS_Store
+Thumbs.db
+desktop.ini
+
+###############################
+# IDE / Editor
+###############################
+.vscode/
+.idea/
+*.iml
+
+###############################
+# Scripts temporales
+###############################
+*.sh~
+*.bat~

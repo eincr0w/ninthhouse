@@ -1,0 +1,146 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/additional-rpg-jewelry.pw.toml"
+hash = "c72fcf42d3b2ec808836616ab6f1f8bbacfcd328628e1e4525829c056f67d455"
+metafile = true
+
+[[files]]
+file = "mods/archers.pw.toml"
+hash = "3e8dba64a771a4706cc40ea4cd2ebfc8b36899701049ffc8b788313d2bf65afc"
+metafile = true
+
+[[files]]
+file = "mods/armory-rpg-series.pw.toml"
+hash = "e888f216b44cf61638716bd22d15d69429e5e051670ed6b7a7ba9fe14da4c185"
+metafile = true
+
+[[files]]
+file = "mods/arsenal-rpg-series.pw.toml"
+hash = "55692d2809fd7cf0b78804f94b6a6e4b7f80aeee878d1068e229d04ed2d6cfeb"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "07e03d9f220fe28d5ae1b767718e72da8666da6448000f3cc06a80ec4abe42ba"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "b14408056dfdcdbbfe1c41e05de322457d508a611efae462db9a4103eb168887"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/elemental-wizards-rpg.pw.toml"
+hash = "5d0e8ccb22d3295ede4401329b6861649c7e92bdf33eda9aa79a9c8207e8e096"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "d8cdb69801ff0ffdf8c9cf6834dd592ca79ce1da139d303f8d17a62afec1abe2"
+metafile = true
+
+[[files]]
+file = "mods/gazebos.pw.toml"
+hash = "2af2d62c97cbd353887ea0ee53b0571bdcf1034cb3fbe653274d059db4ee9ed7"
+metafile = true
+
+[[files]]
+file = "mods/jewelry.pw.toml"
+hash = "f4c71bfe1a0712f6bf75c2432f97bdab9b379b9f55ccd451317d0d7c9edc8293"
+metafile = true
+
+[[files]]
+file = "mods/more-rpg-classes-skill-tree.pw.toml"
+hash = "8a663ed4aa1803dbfa961427c18fed7354630a5efecb612eea819cc8113eee40"
+metafile = true
+
+[[files]]
+file = "mods/more-rpg-library.pw.toml"
+hash = "5b6c22073aae016563893938437569ff7980f5b87d0b36e0751d43ee388a7677"
+metafile = true
+
+[[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "caa5a9677143236b8faeec757d276317f90e217e1b653a5f6a3935d5e58a4324"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "ae55eda5b79aeb01fd4068cc34051019e34779c2d4748aba86e5dba522b7b61d"
+metafile = true
+
+[[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "1169c6f5f7cd13d01081f996cda2a029809877aff999e9bf4e6b0d44b027aa58"
+metafile = true
+
+[[files]]
+file = "mods/relics-rpg.pw.toml"
+hash = "592f77caab1a27fc9b5dfb102c2cda6c1d41267dd3392367bcea4893a38e9641"
+metafile = true
+
+[[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "ecc4102c0c890b0798b692118eaefae613d3b08084f08a8a3e827cc25e923456"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "670cb4987ac4ff766b655d58001022c855a86d84f7f25c8adc28d1cc3c24ac95"
+metafile = true
+
+[[files]]
+file = "mods/shield-api.pw.toml"
+hash = "1554f121bc3ffd5ddc4152f5e8d06227a3dddc583021d36d11237975378e82f1"
+metafile = true
+
+[[files]]
+file = "mods/skill-tree.pw.toml"
+hash = "2ce9354135df1ac59a3f485252f648786cd9512c14e2bd6d046deae8fc6ec9fc"
+metafile = true
+
+[[files]]
+file = "mods/skills.pw.toml"
+hash = "d5619b2564c6dd9b7a55c6f02f8f1da35f0c05c2d0c04f1f18386566b639a62e"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "36486ffdfa9d483d2510e9e9aad881b111e275dfea9bdc94be5265fa22fa3051"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "580698cb1afc910d403bcd2174554fdad4aac751a149be50a4b1e73c72bd7296"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "b35dc0035b4a1554f912fa5c26609a29e17f00886ffa8812b997f97a5b777ff5"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "cdec4d7d3a82b62b46172e78e25d24aab5922293ab355f119a6f86684fa586f1"
+metafile = true

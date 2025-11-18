@@ -1,0 +1,13 @@
+name = "More RPG Classes - Skill Tree"
+filename = "mrpgc_skill_tree-fabric-1.0.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3OYmNUDq/versions/K7uLque3/mrpgc_skill_tree-fabric-1.0.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "7d81a8b14430da29c382958253ea996222af4b35b57920d9998e369afa331e7cfb8680dc6d84a89219c5f7e76bca73c3030aeed1a7476601fffa95f21d5fce7c"
+
+[update]
+[update.modrinth]
+mod-id = "3OYmNUDq"
+version = "K7uLque3"

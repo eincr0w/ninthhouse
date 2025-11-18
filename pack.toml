@@ -1,0 +1,13 @@
+name = "Ninth House"
+author = "Naberius Corax"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f89074717739667bf432a8d9321877b0df3e3f48c43de84f219196d890cbd807"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.1"
