@@ -61,6 +61,11 @@ hash = "2af2d62c97cbd353887ea0ee53b0571bdcf1034cb3fbe653274d059db4ee9ed7"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "43419651a1c8ee71281ce6d607fba199f0e87ba41f9725caa65b4dab2e589d49"
+metafile = true
+
+[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "f4c71bfe1a0712f6bf75c2432f97bdab9b379b9f55ccd451317d0d7c9edc8293"
 metafile = true
