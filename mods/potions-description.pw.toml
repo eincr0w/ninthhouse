@@ -1,0 +1,13 @@
+name = "Potions Description"
+filename = "potions-description-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UNVWaAHz/versions/BHMvf9gY/potions-description-1.0.jar"
+hash-format = "sha512"
+hash = "41aa9edc4d021712fbd09f65911673db71384a11e08fbcfc5aa59a0d3dc9003f818b06bf7b7094b0cbe34093f881660d52e28b1442445c714fe0f1b0d2dfe87f"
+
+[update]
+[update.modrinth]
+mod-id = "UNVWaAHz"
+version = "BHMvf9gY"
